@@ -1,7 +1,7 @@
 # Car-Rental-System
 This project implements a comprehensive car rental system using C++ and adhering to Object-Oriented Programming (OOP) principles. It operates through a command-line interface, offering a range of functionalities tailored for customers, employees, and managers.
 
-## Rental Limits Based on Record:
+# Rental Limits Based on Record:
 - "Good" record: Can rent up to 3 cars.
 - "Average" record: Can rent up to 2 cars.
 - "Poor" record: Can rent only 1 car.
