@@ -1,5 +1,19 @@
-# Car-Rental-System
-This project implements a comprehensive car rental system using C++ and adhering to Object-Oriented Programming (OOP) principles. It operates through a command-line interface, offering a range of functionalities tailored for customers, employees, and managers.
+## Running the Car Rental System
+
+A step-by-step series of examples that tell you how to get the car rental system up and running:
+
+1. Clone the repository to your local machine.
+2. Open the project in VS Code or any IDE.
+3. Compile and run the `220425_cpp_assignment.cpp` file.
+4. Make sure that all the files(cpp source files and all CSV files are located in same folder).
+
+## Built With
+
+* [C++](http://www.cplusplus.com/)
+
+## Author
+
+* **Harsh Agrawal** 
 
 ## Car Rental System Readme
 
